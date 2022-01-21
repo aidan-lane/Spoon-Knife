@@ -1,0 +1,1 @@
+After looking through the list of open source projects that were given in the previous lab, the Continuous Integration System project looks the most interesting to me (https://aosabook.org/en/500L/a-continuous-integration-system.html). I think the best way to organize this project would be to use a common repository as it is relatively simplistic to use and understand.
